@@ -1,0 +1,66 @@
+.logo{
+    height: 50px;
+    width: 30px;
+}
+.navbar-brand{
+    font-size: larger;
+}
+.nav-item{
+    font-size: large;
+}
+.topHeader{
+    color: red;
+    font-weight: bold;
+}
+.btnAdd{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 1%;
+}
+
+.dashData{
+  font-weight: bold;
+  font-size: 50px;
+}
+.box1{
+    background-color: #342ead;
+}
+.box2{
+    background-color: #ea6227;
+}
+.box3{
+    background-color: #f2a51a;
+}
+.box4{
+    background-color: #b9ebcc;
+}
+.box5{
+    background-color: #efa8e4;
+}
+.box6{
+    background-color: #f8e1f4;
+}
+.box7{
+    background-color: #97e5ef;
+}
+.box8{
+    background-color: #fff0f5;
+}
+.box9{
+    background-color: #b2ebf2;
+}
+ul{
+    text-decoration: none;
+}
+.perspective{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      background: var(--mainWhite);
+}
